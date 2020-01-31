@@ -1,0 +1,20 @@
+{
+    "name": "malavehaxiel/containers",
+    "description": "add a new layer to the core to make reusable queries to models and databases in an easy and simple way\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[A",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Haxiel Malave",
+            "email": "malavehaxiel96@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "illuminate/http": "^6.13"
+    },
+    "autoload": {
+		"psr-4": {
+			"MalaveHaxiel\\Container\\": "/src"
+		}
+    }
+}
